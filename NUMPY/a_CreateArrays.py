@@ -47,8 +47,8 @@ print()
 
 #Random numbers
 a7=np.random.rand(4)
-a8=np.random.randn(4)#Note it is ranf and not randf
-a9=np.random.ranf(4)
+a8=np.random.randn(4)
+a9=np.random.ranf(4)#Note it is ranf and not randf
 a10=np.random.randint(3,7,2)#minimum,maximum, total values
 print(a7)
 print(a8)
